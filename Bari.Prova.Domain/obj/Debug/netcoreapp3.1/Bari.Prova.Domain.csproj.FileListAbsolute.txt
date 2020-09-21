@@ -1,0 +1,9 @@
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\bin\Debug\netcoreapp3.1\Bari.Prova.Domain.deps.json
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\bin\Debug\netcoreapp3.1\Bari.Prova.Domain.dll
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\bin\Debug\netcoreapp3.1\Bari.Prova.Domain.pdb
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\obj\Debug\netcoreapp3.1\Bari.Prova.Domain.csprojAssemblyReference.cache
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\obj\Debug\netcoreapp3.1\Bari.Prova.Domain.AssemblyInfoInputs.cache
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\obj\Debug\netcoreapp3.1\Bari.Prova.Domain.AssemblyInfo.cs
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\obj\Debug\netcoreapp3.1\Bari.Prova.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\obj\Debug\netcoreapp3.1\Bari.Prova.Domain.dll
+D:\Projetos\Pessoais\Bari.Prova\Bari.Prova\Bari.Prova.Domain\obj\Debug\netcoreapp3.1\Bari.Prova.Domain.pdb
