@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bari.Prova.Domain\Bari.Prova.Domain.csproj" />
+    <ProjectReference Include="..\Serget.Tools.Queueing\Bari.Prova.Queueing.csproj" />
+  </ItemGroup>
+
+</Project>
