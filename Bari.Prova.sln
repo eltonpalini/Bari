@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bari.Prova.Queueing", "Serget.Tools.Queueing\Bari.Prova.Queueing.csproj", "{B6B4B2F6-7C11-4EA8-8AF4-017891E3C271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bari.Prova.Queueing", "Bari.Prova.Queueing\Bari.Prova.Queueing.csproj", "{B6B4B2F6-7C11-4EA8-8AF4-017891E3C271}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bari.Prova.MicroServico", "Bari.Prova.MicroServico\Bari.Prova.MicroServico.csproj", "{58148CA1-A702-4131-A0E7-E2DCB34C9B33}"
 EndProject

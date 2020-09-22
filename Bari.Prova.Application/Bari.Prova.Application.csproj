@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Bari.Prova.Domain\Bari.Prova.Domain.csproj" />
-    <ProjectReference Include="..\Serget.Tools.Queueing\Bari.Prova.Queueing.csproj" />
+    <ProjectReference Include="..\Bari.Prova.Queueing\Bari.Prova.Queueing.csproj" />
   </ItemGroup>
 
 </Project>
