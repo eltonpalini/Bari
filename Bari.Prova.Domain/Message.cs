@@ -12,7 +12,7 @@ namespace Bari.Prova.Domain
             AppId = appId;
             TimeStamp = timeStamp;
             Id = id;
-            Text = text;
+            Text = text
         }
 
         public string AppId { get; set; }
