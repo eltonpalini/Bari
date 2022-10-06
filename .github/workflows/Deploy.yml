@@ -1,0 +1,14 @@
+name: Deploy
+
+on: 
+  workflow_dispatch:
+    inputs:
+      name: Deploy
+        type: choice
+        description: 'Deploy'     
+        options: 
+        - Dev
+        - Staging
+        - Prod
+        message:
+          required: true
